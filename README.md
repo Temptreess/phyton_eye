@@ -1,9 +1,6 @@
 Python RAT
 A simple Python Remote Administration Tool (RAT)!
 You only need to install Pillow:
-
-bash
-Copy code
 pip install pillow
 Then, convert the file client.py and the .venv directory with py-auto-install!
 Next, run the server!
